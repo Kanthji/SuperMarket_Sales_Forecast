@@ -14,3 +14,9 @@ Provided valuable insights to business entities regarding the effectiveness of t
 Leveraged historic data & apply time series analysis to generate sales forecast for next 15 days.
 ### Actionable insights & recommendations:
 End goal is to share valuable insights & actionable information that can drive strategic decisions & support the SuperMarket's goal fpr growth, efficiency, & customer satisfaction.
+
+
+![SuperMarket_Sales_Dashboard](https://github.com/Kanthji/SuperMarket_Sales_Forecast/assets/116734498/c04b0612-d76e-43d3-a0e0-0a7a499ba649)
+
+
+![SuperMarket_Sales_Forecast](https://github.com/Kanthji/SuperMarket_Sales_Forecast/assets/116734498/0e4b4e2a-defa-4add-a63a-bb1537a01e3b)
